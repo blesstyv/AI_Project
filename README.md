@@ -74,6 +74,17 @@ Las pruebas confirman el comportamiento descrito, pero no se incluyen nombres ni
 - Las puntuaciones de similitud no representan probabilidades de compra.
 
 
+## Proceso de desarrollo
+
+1. Se creó el repositorio público AI_Project en GitHub.
+2. Se clonó el repositorio en Visual Studio Code.
+3. Se configuró GitHub Copilot Free para apoyar la generación del código.
+4. Se creó recommendation_system.py con un catálogo de nueve productos tecnológicos.
+5. Se configuró un entorno virtual con Python 3.14 y se instalaron Pandas y Scikit-Learn.
+6. Se realizaron pruebas con Galaxy S25, Dell XPS 13 y un producto inexistente.
+7. Se mejoró el programa para reconocer búsquedas en minúsculas y priorizar productos similares.
+8. Se documentaron los resultados, se incorporaron capturas y se publicó el proyecto mediante Git.
+
 ## Evidencias del desarrollo
 
 ### 1. Desarrollo con GitHub Copilot
